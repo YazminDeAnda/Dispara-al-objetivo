@@ -7,7 +7,6 @@
 * [1. Intro](#)
 * [2. Qué construí](#)
 * [3. Objetivo](#)
-* [4. Link a Demo](#)
 
 
 ****
@@ -31,5 +30,3 @@ En el archivo, podemos encontrar una conexión a JS dentro del archivo HTML, el 
 Mi objetivo con este juego es poner en práctica mis conocimientos en JS.
 
 
-## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Tiro al blanco]
